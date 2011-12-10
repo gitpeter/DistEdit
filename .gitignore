@@ -16,3 +16,5 @@
 
 #ignore database setting
 database.yml
+
+/.idea
